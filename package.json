@@ -23,7 +23,11 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NastyaDudk/goit-js-hw-09"
-
-  }
+    "url": "git+https://github.com/NastyaDudk/goit-js-hw-09.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NastyaDudk/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/NastyaDudk/goit-js-hw-09#readme"
 }
+
